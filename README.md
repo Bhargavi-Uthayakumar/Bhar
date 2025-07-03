@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Bhargavi Uthayakumar!
+# 👋 Hi there, This is Bhargavi Uthayakumar!
 
 ### 🚀 Embedded Systems | 🧠 Edge AI | 🎯 Real-Time Systems
 
